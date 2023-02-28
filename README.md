@@ -8,6 +8,6 @@ Machine Learning algorithms used:
 Logistic Regression (Scikit-learn)
 Naive Bayes (Scikit-learn)
 Support Vector Machine (Linear) (Scikit-learn)
-Artificial Neural Network with 1 Hidden layer (Keras)
+Artificial Neural Network with 2 Hidden layer (Keras)
 
 Dataset used: https://www.kaggle.com/code/surajjha101/heart-failure-prediction-svm-and-ann/data?select=heart_failure_clinical_records_dataset.csv
